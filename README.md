@@ -71,7 +71,7 @@ python main.py
 
 ## Usage
 
-![Premetives](images/ss.png)
+![Premetives](cli_project/images/ss.png)
 
 ### Basic Interaction
 
@@ -86,7 +86,7 @@ Use the @ symbol followed by a document ID to include document content in your q
 ```
 Just as shown in the below screenshot
 
-![Document Retrieval Results](images/image.png)
+![Document Retrieval Results](cli_project/images/image.png)
 
 ![Full View](images/image_1.png)
 
@@ -100,7 +100,7 @@ Use the / prefix to execute commands defined in the MCP server:
 
 Commands will auto-complete when you press Tab.
 
-![Prefix Results](images/image_2.png)
+![Prefix Results](cli_project/images/image_2.png)
 
 ## Development
 
@@ -120,4 +120,4 @@ To fully implement the MCP features:
 There are no lint or type checks implemented.
 
 
-![certificate of completion](images/certificate.pdf)
+![certificate of completion](cli_project/images/certificate.pdf)
