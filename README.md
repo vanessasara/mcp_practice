@@ -88,7 +88,7 @@ Just as shown in the below screenshot
 
 ![Document Retrieval Results](cli_project/images/image.png)
 
-![Full View](images/image_1.png)
+![Full View](cli_project/images/image_1.png)
 
 ### Commands
 
@@ -119,5 +119,3 @@ To fully implement the MCP features:
 
 There are no lint or type checks implemented.
 
-
-![certificate of completion](cli_project/images/certificate.pdf)
